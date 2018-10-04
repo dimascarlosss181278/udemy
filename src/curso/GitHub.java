@@ -8,6 +8,8 @@ public class GitHub {
 		// Exemplo capitulo GitHub
 
 		System.out.println("INICIANDO...");
+		System.out.println("TESTE DE GITHUB...");
+		
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Informe seu nome completo: ");
